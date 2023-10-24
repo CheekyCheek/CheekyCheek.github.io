@@ -22,6 +22,13 @@ Data scientist and physics graduate researcher combining frequentist statistics 
 
 
 ## Projects
+My graduate and post-graduate research experience has taken place in the Texas Institute of Measurement, Evaluation, and Statistics's (TIMES) GENES:IS Lab, an interdisciplinary research lab at the University of Houston. This lab consists of psychologists, geneticists, linguists, and statisticians. Broadly, the lab studies cognitive and developmental outcomes in adolescents using societal, environmental, and biological variables. I serve as a data science and machine learning methodologist within the lab and worked on numerous projects. I will describe notable projects below and demonstrate notable aspects of data processing, feature engineering, or analysis involved in these projects. 
+
 ### Brain-Imaging Genetic Analysis of Academic Skills
-Created a data-driven pipeline to identify genetic markers storngly associated with academic skills using individual brain-imaging measures as an intermediary. This project is interdisciplinary, and the analysis conducted in collaboration with geneticists, psychologists, and imaging specialists. The pipeline is comprised of 3 parts: data wrangling, data engineering, and data analysis. Data modalities include: individual tasks assessing academic skill (e.g., reading, math, and comprehension), structural magnetic resonance imaging (MRI) indicators of gray matter development and white matter integrity, and individual genetic information for 
+Created a data-driven pipeline to identify genetic markers storngly associated with academic skills using individual brain-imaging measures as an intermediary. This project is interdisciplinary, and the analysis conducted in collaboration with geneticists, psychologists, and imaging specialists. The pipeline is comprised of 3 parts: data wrangling, data engineering, and data analysis. Data modalities include: individual tasks assessing academic skill (e.g., reading, math, and comprehension), structural magnetic resonance imaging (MRI) indicators of gray matter development and white matter integrity, and individual genetic information for approximately 1600 study participants. 
+- Data processing of academic skill
+- Feature engineering of academic skill
+- Data processing of imaging indicators (including imputation)
+
+### 
 
