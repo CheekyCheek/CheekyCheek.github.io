@@ -21,6 +21,7 @@ Data scientist and physics graduate researcher combining frequentist statistics 
 -	Improve child developmental outcomes using frequentist statistics and ML/DL pipelines to model diverse datasets 
 
 
-### Projects
-Brain-Imaging Genetic Analysis of Academic Skills
+## Projects
+### Brain-Imaging Genetic Analysis of Academic Skills
+Created a data-driven pipeline to identify genetic markers storngly associated with academic skills using individual brain-imaging measures as an intermediary. This project is interdisciplinary, and the analysis conducted in collaboration with geneticists, psychologists, and imaging specialists. The pipeline is comprised of 3 parts: data wrangling, data engineering, and data analysis. Data modalities include: individual tasks assessing academic skill (e.g., reading, math, and comprehension), structural magnetic resonance imaging (MRI) indicators of gray matter development and white matter integrity, and individual genetic information for 
 
