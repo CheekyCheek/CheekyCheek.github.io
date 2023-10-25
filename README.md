@@ -29,6 +29,12 @@ Created a data-driven pipeline to identify genetic markers storngly associated w
 - Data processing of academic skill
 - Feature engineering of academic skill
 - Data processing of imaging indicators (including imputation)
+  
+### Predicting Generational Effects of Institutionalization using EEG 
+- Comparative classifciation battery
+- Empirical p-value generation
 
-### 
+### Predicting Learning Disorders using Written Text
+- Feature selection using mutual information
+- Battery of classifiers
 
